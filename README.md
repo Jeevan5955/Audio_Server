@@ -61,7 +61,7 @@
 ### Create 
 
 
-##### i) ```<domain>/create/<audioFileType>```
+##### API URL: ```<domain>/create/<audioFileType>```
 
 #####  Example ``` 127.0.0.1/create/podcast```
 
@@ -69,7 +69,7 @@
 
 ### Delete
 
-#####  ```<domain>/delete/<audioFileType>/<audioFileID>```
+##### API URL: ```<domain>/delete/<audioFileType>/<audioFileID>```
 
 #####  Example: ``` 127.0.0.1/delete/song/4```
 
@@ -79,7 +79,7 @@
 
 ### Update
 
-#####  ```<domain>/update/<audioFileType>/<audioFileID>```
+##### API URL: ```<domain>/update/<audioFileType>/<audioFileID>```
 
 #####  Example: ``` 127.0.0.1/update/podcast/2```
 
@@ -93,14 +93,14 @@
 
 #### Get complete list on songs/podcast/audiobook:
 
-#####  ```<domain>/<audioFileType>```
+#####  API URL: ```<domain>/<audioFileType>```
 #####  Example: ``` 127.0.0.1/song```
 
 ![127 0 0 1_8000_song](https://user-images.githubusercontent.com/54932235/117995048-a1560900-b35e-11eb-8045-ce43091a3fd3.png)
 
 #### Get particular songs/podcast/audiobook:
 
-#####  ```<domain>/<audioFileType>/<audioFileID>```
+#####  API URL: ```<domain>/<audioFileType>/<audioFileID>```
 
 #####  Example: ``` 127.0.0.1/song/2```
 
