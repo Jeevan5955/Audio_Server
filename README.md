@@ -4,9 +4,9 @@
  
  ##### 1.
  
- ###### i) git clone https://github.com/Jeevan5955/Audio_Server.git
- ###### ii) cd Audio_Server
- ###### iii) pip install -r requirements.txt
+ ###### i)  ```git clone https://github.com/Jeevan5955/Audio_Server.git```
+ ###### ii) ```cd Audio_Server``` 
+ ###### iii) ```  pip install -r requirements.txt```
  
  ##### 2.
  
@@ -15,17 +15,6 @@
  ###### ii) Open setting.py 
  ###### Path: Audio_Server/filled/setting.py
  ###### iii) Add PostgreSQL database details
- ###### DATABASES = {
- ######    'default': {
- ######       'ENGINE': 'django.db.backends.postgresql',
- ######       'NAME':  '*****',
- ######       'USER': '****',
- ######       'PASSWORD': '*****',
- ######       'HOST': '*****',
- ######       'PORT': 5432
- ######  
- ######     }
- ######  }
 
  ```
  DATABASES = {
