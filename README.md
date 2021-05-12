@@ -67,6 +67,8 @@
 
 #### Delete
 
+#####  Example ``` 127.0.0.1/delete/song/4```
+
 #####  ```<domain>/delete/<audioFileType>/<audioFileID>```
 
 ![127 0 0 1_8000_delete_song_4](https://user-images.githubusercontent.com/54932235/117994561-445a5300-b35e-11eb-9464-4ee404cbf605.png)
