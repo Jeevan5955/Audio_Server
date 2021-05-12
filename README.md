@@ -76,6 +76,8 @@
 
 #####  ```<domain>/update/<audioFileType>/<audioFileID>```
 
+#####  Example ``` 127.0.0.1```
+
 ![127 0 0 1_8000_update_podcast_2](https://user-images.githubusercontent.com/54932235/117994826-6fdd3d80-b35e-11eb-963a-d7b42f4235b6.png)
 
 ![127 0 0 1_8000_update_podcast_2 (1)](https://user-images.githubusercontent.com/54932235/117994856-753a8800-b35e-11eb-987b-6c1f14e538fa.png)
