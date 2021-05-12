@@ -56,9 +56,10 @@
 
 ![Update](https://user-images.githubusercontent.com/54932235/117993747-9fd81100-b35d-11eb-9bfc-19e7d6f40eac.png)
 
-### API End Points
+## API End Points
 
 #### Create 
+#####  Example ``` 127.0.0.1/create/podcast```
 
 ##### i) ```<domain>/create/<audioFileType>```
 
