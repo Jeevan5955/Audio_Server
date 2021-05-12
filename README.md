@@ -10,5 +10,23 @@
  
  ##### 2.
  
+ ###### i) Create a PostgreSQL database
+ ###### Reference: https://www.postgresql.org/
+ ###### ii) Open setting.py 
+ ###### Path: Audio_Server/filled/setting.py
+ ###### iii) Add PostgreSQL database details
+ DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME':  '*****',
+        'USER': '****',
+        'PASSWORD': '*****',
+        'HOST': '*****',
+        'PORT': 5432
+
+    }
+}
+
+ 
  
 
