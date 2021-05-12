@@ -58,46 +58,51 @@
 
 ## API End Points
 
-#### Create 
-#####  Example ``` 127.0.0.1/create/podcast```
+### Create 
+
 
 ##### i) ```<domain>/create/<audioFileType>```
 
+#####  Example ``` 127.0.0.1/create/podcast```
+
 ![127 0 0 1_8000_create_podcast](https://user-images.githubusercontent.com/54932235/117994334-17a63b80-b35e-11eb-865e-fe3cbf577c5b.png)
 
-#### Delete
-
-#####  Example ``` 127.0.0.1/delete/song/4```
+### Delete
 
 #####  ```<domain>/delete/<audioFileType>/<audioFileID>```
+
+#####  Example: ``` 127.0.0.1/delete/song/4```
 
 ![127 0 0 1_8000_delete_song_4](https://user-images.githubusercontent.com/54932235/117994561-445a5300-b35e-11eb-9464-4ee404cbf605.png)
 
 ![127 0 0 1_8000_delete_song_4 (1)](https://user-images.githubusercontent.com/54932235/117994448-2ee52900-b35e-11eb-96ec-4b3c721c2820.png)
 
-#### Update
+### Update
 
 #####  ```<domain>/update/<audioFileType>/<audioFileID>```
 
-#####  Example ``` 127.0.0.1```
+#####  Example: ``` 127.0.0.1/update/podcast/2```
 
 ![127 0 0 1_8000_update_podcast_2](https://user-images.githubusercontent.com/54932235/117994826-6fdd3d80-b35e-11eb-963a-d7b42f4235b6.png)
 
 ![127 0 0 1_8000_update_podcast_2 (1)](https://user-images.githubusercontent.com/54932235/117994856-753a8800-b35e-11eb-987b-6c1f14e538fa.png)
 
-#### Get
+### Get
 
 
 
-##### Get complete list on songs/podcast/audiobook:
+#### Get complete list on songs/podcast/audiobook:
 
 #####  ```<domain>/<audioFileType>```
+#####  Example: ``` 127.0.0.1/song```
 
 ![127 0 0 1_8000_song](https://user-images.githubusercontent.com/54932235/117995048-a1560900-b35e-11eb-8045-ce43091a3fd3.png)
 
-##### Get particular songs/podcast/audiobook:
+#### Get particular songs/podcast/audiobook:
 
 #####  ```<domain>/<audioFileType>/<audioFileID>```
+
+#####  Example: ``` 127.0.0.1/song/2```
 
 ![127 0 0 1_8000_song_2](https://user-images.githubusercontent.com/54932235/117995254-cea2b700-b35e-11eb-8b6e-25d7d823d8c0.png)
 
