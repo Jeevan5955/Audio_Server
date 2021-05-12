@@ -60,7 +60,7 @@
 
 #### Create 
 
-##### i) ```<domain>/<audioFileType>/song```
+##### i) ```<domain>/create/<audioFileType>```
 
 ![127 0 0 1_8000_create_podcast](https://user-images.githubusercontent.com/54932235/117994334-17a63b80-b35e-11eb-865e-fe3cbf577c5b.png)
 
