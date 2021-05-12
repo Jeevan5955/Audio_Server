@@ -30,6 +30,14 @@
 }
 ```
 
+##### 3.
+
+ ##### i)  ```python manage.py makemigrations```
+ ##### ii) ```python manage.py migrate``` 
+ ##### iii) ```python manage.py runserver```
+
+
+
 
  
 
