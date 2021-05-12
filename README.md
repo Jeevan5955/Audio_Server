@@ -1,4 +1,14 @@
 ﻿# Audio_Server
  
-[Python_Test.pdf](https://github.com/Jeevan5955/Audio_Server/files/6466658/Python_Test.pdf)
+ #### Setup:
+ 
+ ##### 1.
+ 
+ i) git clone https://github.com/Jeevan5955/Audio_Server.git
+ ii) cd Audio_Server
+ iii) pip install -r requirements.txt
+ 
+ ##### 2.
+ 
+ 
 
